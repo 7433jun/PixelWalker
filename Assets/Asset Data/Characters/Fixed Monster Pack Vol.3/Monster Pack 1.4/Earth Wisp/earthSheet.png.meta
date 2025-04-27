@@ -1,0 +1,2613 @@
+fileFormatVersion: 2
+guid: 12bdf3b47d995a645a18b03df10de55f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8986311752241926342
+    second: earthSheet_0
+  - first:
+      213: -2641766062497815756
+    second: earthSheet_1
+  - first:
+      213: 5278134989616537523
+    second: earthSheet_2
+  - first:
+      213: -8931608990794668847
+    second: earthSheet_3
+  - first:
+      213: -1543455052623267707
+    second: earthSheet_4
+  - first:
+      213: 1664048150765502066
+    second: earthSheet_5
+  - first:
+      213: -2224822869319617896
+    second: earthSheet_6
+  - first:
+      213: -8627966833599046193
+    second: earthSheet_7
+  - first:
+      213: -194422538733272055
+    second: earthSheet_8
+  - first:
+      213: -8177165925666737698
+    second: earthSheet_9
+  - first:
+      213: 6063042043895487531
+    second: earthSheet_10
+  - first:
+      213: 1106727478541985845
+    second: earthSheet_11
+  - first:
+      213: -9178595681357153897
+    second: earthSheet_12
+  - first:
+      213: -9020324283301948832
+    second: earthSheet_13
+  - first:
+      213: 2718235384748012716
+    second: earthSheet_14
+  - first:
+      213: -685594106842906002
+    second: earthSheet_15
+  - first:
+      213: 3248200920331529506
+    second: earthSheet_16
+  - first:
+      213: -3032851315525808260
+    second: earthSheet_17
+  - first:
+      213: -8207776920008900881
+    second: earthSheet_18
+  - first:
+      213: 5114330242009322380
+    second: earthSheet_19
+  - first:
+      213: 7205031447189683026
+    second: earthSheet_20
+  - first:
+      213: 6989862943068486717
+    second: earthSheet_21
+  - first:
+      213: -4040800796640089456
+    second: earthSheet_22
+  - first:
+      213: -2457189845482606637
+    second: earthSheet_23
+  - first:
+      213: 8877603102326517221
+    second: earthSheet_24
+  - first:
+      213: -8411712060630439424
+    second: earthSheet_25
+  - first:
+      213: 4867655199139683471
+    second: earthSheet_26
+  - first:
+      213: 28427876002383043
+    second: earthSheet_27
+  - first:
+      213: -2446381242841830481
+    second: earthSheet_28
+  - first:
+      213: -3323819430754298004
+    second: earthSheet_29
+  - first:
+      213: 3556734215976263524
+    second: earthSheet_30
+  - first:
+      213: -2104857564613583401
+    second: earthSheet_31
+  - first:
+      213: -3847889349773693020
+    second: earthSheet_32
+  - first:
+      213: -5796437534663059805
+    second: earthSheet_33
+  - first:
+      213: 1588159060683026872
+    second: earthSheet_34
+  - first:
+      213: -6474969380569695093
+    second: earthSheet_35
+  - first:
+      213: 7612347946009805639
+    second: earthSheet_36
+  - first:
+      213: 6719208231214280464
+    second: earthSheet_37
+  - first:
+      213: -991827866640001237
+    second: earthSheet_38
+  - first:
+      213: -5642003675725821425
+    second: earthSheet_39
+  - first:
+      213: -3167404465855089429
+    second: earthSheet_40
+  - first:
+      213: -6797369796193527365
+    second: earthSheet_41
+  - first:
+      213: -4740546683522421720
+    second: earthSheet_42
+  - first:
+      213: 2305200176313899317
+    second: earthSheet_43
+  - first:
+      213: 1062682129174698664
+    second: earthSheet_44
+  - first:
+      213: -6276761454516824
+    second: earthSheet_45
+  - first:
+      213: -5870597631785996495
+    second: earthSheet_46
+  - first:
+      213: -1249317520332000199
+    second: earthSheet_47
+  - first:
+      213: -7245547536679054019
+    second: earthSheet_48
+  - first:
+      213: 8907007890544980605
+    second: earthSheet_49
+  - first:
+      213: -4821276316801519034
+    second: earthSheet_50
+  - first:
+      213: 2021205930849869876
+    second: earthSheet_51
+  - first:
+      213: 7247681969219001008
+    second: earthSheet_52
+  - first:
+      213: 3183902042682296609
+    second: earthSheet_53
+  - first:
+      213: -3462368876609588431
+    second: earthSheet_54
+  - first:
+      213: -5763059493946382353
+    second: earthSheet_55
+  - first:
+      213: 8444488114792264120
+    second: earthSheet_56
+  - first:
+      213: -7747388421235012706
+    second: earthSheet_57
+  - first:
+      213: 1216651973747204037
+    second: earthSheet_58
+  - first:
+      213: 657791519075961795
+    second: earthSheet_59
+  - first:
+      213: -7031849312156909013
+    second: earthSheet_60
+  - first:
+      213: -4130187593132837131
+    second: earthSheet_61
+  - first:
+      213: 1588167382095884517
+    second: earthSheet_62
+  - first:
+      213: -768686183806787580
+    second: earthSheet_63
+  - first:
+      213: 8424999169276152651
+    second: earthSheet_64
+  - first:
+      213: 4239008237610537762
+    second: earthSheet_65
+  - first:
+      213: 5103756187304965790
+    second: earthSheet_66
+  - first:
+      213: -8872825950441730154
+    second: earthSheet_67
+  - first:
+      213: -5934122426045618156
+    second: earthSheet_68
+  - first:
+      213: -1525769123056558187
+    second: earthSheet_69
+  - first:
+      213: -1340601561945489695
+    second: earthSheet_70
+  - first:
+      213: -5595323314522425907
+    second: earthSheet_71
+  - first:
+      213: -6556854300421568815
+    second: earthSheet_72
+  - first:
+      213: -6828710468159681554
+    second: earthSheet_73
+  - first:
+      213: -2715627278148871448
+    second: earthSheet_74
+  - first:
+      213: 1386977635390863289
+    second: earthSheet_75
+  - first:
+      213: -2420658901176366668
+    second: earthSheet_76
+  - first:
+      213: 8109644089452175359
+    second: earthSheet_77
+  - first:
+      213: 2763839422132608973
+    second: earthSheet_78
+  - first:
+      213: -3869292276417599287
+    second: earthSheet_79
+  - first:
+      213: -8023546716557686745
+    second: earthSheet_80
+  - first:
+      213: 9064815792928165544
+    second: earthSheet_81
+  - first:
+      213: 8580538057278214478
+    second: earthSheet_82
+  - first:
+      213: -357378231035976687
+    second: earthSheet_83
+  - first:
+      213: 8311912483566328541
+    second: earthSheet_84
+  - first:
+      213: 3774968686277169917
+    second: earthSheet_85
+  - first:
+      213: 8098180113627902473
+    second: earthSheet_86
+  - first:
+      213: -1989576130634806308
+    second: earthSheet_87
+  - first:
+      213: -8811878482941951704
+    second: earthSheet_88
+  - first:
+      213: -4169512452288878489
+    second: earthSheet_89
+  - first:
+      213: 4124806014476456322
+    second: earthSheet_90
+  - first:
+      213: -4966144103108291959
+    second: earthSheet_91
+  - first:
+      213: -4718309182502768513
+    second: earthSheet_92
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: earthSheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 179
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c05c495deac5bc70800000000000000
+      internalID: 8986311752241926342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 195
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433a22943cf865bd0800000000000000
+      internalID: -2641766062497815756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 190
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf57aceec3bf3940800000000000000
+      internalID: 5278134989616537523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 179
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4affec1fc8c0480800000000000000
+      internalID: -8931608990794668847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 197
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588bb95aecb849ae0800000000000000
+      internalID: -1543455052623267707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 190
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ef5830af2e71710800000000000000
+      internalID: 1664048150765502066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 177
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892f9025367df11e0800000000000000
+      internalID: -2224822869319617896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_7
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 197
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd1a75b0ed434880800000000000000
+      internalID: -8627966833599046193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_8
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 196
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904497a2bb54d4df0800000000000000
+      internalID: -194422538733272055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 178
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1b4334aeed48e80800000000000000
+      internalID: -8177165925666737698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_10
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 197
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c16a49d90442450800000000000000
+      internalID: 6063042043895487531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_11
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 190
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538a8ad27c2eb5f00800000000000000
+      internalID: 1106727478541985845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_12
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 176
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799b5cbabd31f9080800000000000000
+      internalID: -9178595681357153897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 196
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06215f62bde51d280800000000000000
+      internalID: -9020324283301948832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_14
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 192
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca47dcb3eac19b520800000000000000
+      internalID: 2718235384748012716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_15
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 179
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e620781dac74c76f0800000000000000
+      internalID: -685594106842906002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 196
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d257ff68de31d20800000000000000
+      internalID: 3248200920331529506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_17
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 192
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f02891cc529e5d0800000000000000
+      internalID: -3032851315525808260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_18
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 175
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee383fb06e181e80800000000000000
+      internalID: -8207776920008900881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 178
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83d00b1240c9f640800000000000000
+      internalID: 5114330242009322380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b72456de96df360800000000000000
+      internalID: 7205031447189683026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 178
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c7346105bf00160800000000000000
+      internalID: 6989862943068486717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_22
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 180
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ae624a5113ce7c0800000000000000
+      internalID: -4040800796640089456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_23
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 176
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfef42bade46edd0800000000000000
+      internalID: -2457189845482606637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_24
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 137
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ede31b6cf4933b70800000000000000
+      internalID: 8877603102326517221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_25
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 155
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ae041b278934b80800000000000000
+      internalID: -8411712060630439424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 151
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cddc91d926d8340800000000000000
+      internalID: 4867655199139683471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_27
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 132
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c447daa00ff46000800000000000000
+      internalID: 28427876002383043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_28
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 161
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabeb3b9835bc0ed0800000000000000
+      internalID: -2446381242841830481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_29
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 154
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67595c86db6fd1d0800000000000000
+      internalID: -3323819430754298004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 133
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f1ebfccee0c5130800000000000000
+      internalID: 3556734215976263524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_31
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 163
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddd96e623b0ac2e0800000000000000
+      internalID: -2104857564613583401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_32
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 156
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afeabbf50d899ac0800000000000000
+      internalID: -3847889349773693020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_33
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 133
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6daa7e5caee8fa0800000000000000
+      internalID: -5796437534663059805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_34
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 153
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b174d250464a0610800000000000000
+      internalID: 1588159060683026872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_35
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 149
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cbc9b77a94426a0800000000000000
+      internalID: -6474969380569695093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_36
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 136
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743c69cff1e74a960800000000000000
+      internalID: 7612347946009805639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_37
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 153
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f6861594c6f3d50800000000000000
+      internalID: 6719208231214280464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_38
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 149
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27d69a6fc15c32f0800000000000000
+      internalID: -991827866640001237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_39
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 136
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a0aeeac8393b1b0800000000000000
+      internalID: -5642003675725821425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_40
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 152
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4b8b08b6e1b04d0800000000000000
+      internalID: -3167404465855089429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_41
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 147
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb95ae23f24eaa1a0800000000000000
+      internalID: -6797369796193527365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 137
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c6d7768e1363eb0800000000000000
+      internalID: -4740546683522421720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_43
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 133
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5399b5dc857bdff10800000000000000
+      internalID: 2305200176313899317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_44
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 132
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa1d9224c76fbe00800000000000000
+      internalID: 1062682129174698664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_45
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 130
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5e9279153b9eff0800000000000000
+      internalID: -6276761454516824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 134
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f6522ce82778ea0800000000000000
+      internalID: -5870597631785996495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_47
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 135
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93470fc955889aee0800000000000000
+      internalID: -1249317520332000199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 91
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35d90967e4a27b90800000000000000
+      internalID: -7245547536679054019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_49
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 121
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72f88f2c7c0c9b70800000000000000
+      internalID: 8907007890544980605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_50
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 113
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642ba0debb2671db0800000000000000
+      internalID: -4821276316801519034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_51
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 91
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4302836d514cc0c10800000000000000
+      internalID: 2021205930849869876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_52
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 121
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba5d44e950f49460800000000000000
+      internalID: 7247681969219001008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_53
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 113
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12908bde90e7f2c20800000000000000
+      internalID: 3183902042682296609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_54
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 87
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1333154e9d133ffc0800000000000000
+      internalID: -3462368876609588431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_55
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 87
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe722eb9cef7500b0800000000000000
+      internalID: -5763059493946382353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_56
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 88
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b173381339d03570800000000000000
+      internalID: 8444488114792264120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_57
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 100
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b005f374fbb7490800000000000000
+      internalID: -7747388421235012706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_58
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 93
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfda76268a62e010800000000000000
+      internalID: 1216651973747204037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_59
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 87
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb89c6c6e1f02900800000000000000
+      internalID: 657791519075961795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_60
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 91
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2200d29e4ad96e90800000000000000
+      internalID: -7031849312156909013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_61
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 91
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f677974440aea6c0800000000000000
+      internalID: -4130187593132837131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_62
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 87
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0ffadc1dd4a0610800000000000000
+      internalID: 1588167382095884517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_63
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 46
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400227e0df31555f0800000000000000
+      internalID: -768686183806787580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_64
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 64
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b8aad5b1c9be470800000000000000
+      internalID: 8424999169276152651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2231bba688bf3da30800000000000000
+      internalID: 4239008237610537762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_66
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 47
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96b384263f24d640800000000000000
+      internalID: 5103756187304965790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_67
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 64
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f8d0eeec36dd480800000000000000
+      internalID: -8872825950441730154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_68
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4182fd50813c5ada0800000000000000
+      internalID: -5934122426045618156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_69
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 49
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f54f2011163dae0800000000000000
+      internalID: -1525769123056558187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_70
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 64
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eeb7e27bf9356de0800000000000000
+      internalID: -1340601561945489695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_71
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5fd6a371b6952b0800000000000000
+      internalID: -5595323314522425907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_72
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 64
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d64163e0cf5105a0800000000000000
+      internalID: -6556854300421568815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_73
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebc95f520c8b31a0800000000000000
+      internalID: -6828710468159681554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_74
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 47
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea5397e067205ad0800000000000000
+      internalID: -2715627278148871448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_75
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 64
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b732e49fc88f3310800000000000000
+      internalID: 1386977635390863289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_76
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9cef8fd87186ed0800000000000000
+      internalID: -2420658901176366668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_77
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 46
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff94a6255e3b8070800000000000000
+      internalID: 8109644089452175359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_78
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 65
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf5f6c9f412b5620800000000000000
+      internalID: 2763839422132608973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_79
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 62
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c867fbcc238d4ac0800000000000000
+      internalID: -3869292276417599287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_80
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 46
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728c3d895c2a6a090800000000000000
+      internalID: -8023546716557686745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_81
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 45
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae85dbafe1bccd70800000000000000
+      internalID: 9064815792928165544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_82
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 5
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41d9c5c6e1341770800000000000000
+      internalID: 8580538057278214478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_83
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 15
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114a4a074665a0bf0800000000000000
+      internalID: -357378231035976687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_84
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 16
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda1b1b8d58d95370800000000000000
+      internalID: 8311912483566328541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_85
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 4
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df216cff402636430800000000000000
+      internalID: 3774968686277169917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_86
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9027ce748e3826070800000000000000
+      internalID: 8098180113627902473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_87
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb8ae7ec0b9364e0800000000000000
+      internalID: -1989576130634806308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_88
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8214654053be5b580800000000000000
+      internalID: -8811878482941951704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_89
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768e0c2048ae226c0800000000000000
+      internalID: -4169512452288878489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_90
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 8
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281934c47314e3930800000000000000
+      internalID: 4124806014476456322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_91
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98254deff36b41bb0800000000000000
+      internalID: -4966144103108291959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthSheet_92
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7075741cc2358eb0800000000000000
+      internalID: -4718309182502768513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      earthSheet_0: 8986311752241926342
+      earthSheet_1: -2641766062497815756
+      earthSheet_10: 6063042043895487531
+      earthSheet_11: 1106727478541985845
+      earthSheet_12: -9178595681357153897
+      earthSheet_13: -9020324283301948832
+      earthSheet_14: 2718235384748012716
+      earthSheet_15: -685594106842906002
+      earthSheet_16: 3248200920331529506
+      earthSheet_17: -3032851315525808260
+      earthSheet_18: -8207776920008900881
+      earthSheet_19: 5114330242009322380
+      earthSheet_2: 5278134989616537523
+      earthSheet_20: 7205031447189683026
+      earthSheet_21: 6989862943068486717
+      earthSheet_22: -4040800796640089456
+      earthSheet_23: -2457189845482606637
+      earthSheet_24: 8877603102326517221
+      earthSheet_25: -8411712060630439424
+      earthSheet_26: 4867655199139683471
+      earthSheet_27: 28427876002383043
+      earthSheet_28: -2446381242841830481
+      earthSheet_29: -3323819430754298004
+      earthSheet_3: -8931608990794668847
+      earthSheet_30: 3556734215976263524
+      earthSheet_31: -2104857564613583401
+      earthSheet_32: -3847889349773693020
+      earthSheet_33: -5796437534663059805
+      earthSheet_34: 1588159060683026872
+      earthSheet_35: -6474969380569695093
+      earthSheet_36: 7612347946009805639
+      earthSheet_37: 6719208231214280464
+      earthSheet_38: -991827866640001237
+      earthSheet_39: -5642003675725821425
+      earthSheet_4: -1543455052623267707
+      earthSheet_40: -3167404465855089429
+      earthSheet_41: -6797369796193527365
+      earthSheet_42: -4740546683522421720
+      earthSheet_43: 2305200176313899317
+      earthSheet_44: 1062682129174698664
+      earthSheet_45: -6276761454516824
+      earthSheet_46: -5870597631785996495
+      earthSheet_47: -1249317520332000199
+      earthSheet_48: -7245547536679054019
+      earthSheet_49: 8907007890544980605
+      earthSheet_5: 1664048150765502066
+      earthSheet_50: -4821276316801519034
+      earthSheet_51: 2021205930849869876
+      earthSheet_52: 7247681969219001008
+      earthSheet_53: 3183902042682296609
+      earthSheet_54: -3462368876609588431
+      earthSheet_55: -5763059493946382353
+      earthSheet_56: 8444488114792264120
+      earthSheet_57: -7747388421235012706
+      earthSheet_58: 1216651973747204037
+      earthSheet_59: 657791519075961795
+      earthSheet_6: -2224822869319617896
+      earthSheet_60: -7031849312156909013
+      earthSheet_61: -4130187593132837131
+      earthSheet_62: 1588167382095884517
+      earthSheet_63: -768686183806787580
+      earthSheet_64: 8424999169276152651
+      earthSheet_65: 4239008237610537762
+      earthSheet_66: 5103756187304965790
+      earthSheet_67: -8872825950441730154
+      earthSheet_68: -5934122426045618156
+      earthSheet_69: -1525769123056558187
+      earthSheet_7: -8627966833599046193
+      earthSheet_70: -1340601561945489695
+      earthSheet_71: -5595323314522425907
+      earthSheet_72: -6556854300421568815
+      earthSheet_73: -6828710468159681554
+      earthSheet_74: -2715627278148871448
+      earthSheet_75: 1386977635390863289
+      earthSheet_76: -2420658901176366668
+      earthSheet_77: 8109644089452175359
+      earthSheet_78: 2763839422132608973
+      earthSheet_79: -3869292276417599287
+      earthSheet_8: -194422538733272055
+      earthSheet_80: -8023546716557686745
+      earthSheet_81: 9064815792928165544
+      earthSheet_82: 8580538057278214478
+      earthSheet_83: -357378231035976687
+      earthSheet_84: 8311912483566328541
+      earthSheet_85: 3774968686277169917
+      earthSheet_86: 8098180113627902473
+      earthSheet_87: -1989576130634806308
+      earthSheet_88: -8811878482941951704
+      earthSheet_89: -4169512452288878489
+      earthSheet_9: -8177165925666737698
+      earthSheet_90: 4124806014476456322
+      earthSheet_91: -4966144103108291959
+      earthSheet_92: -4718309182502768513
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,46 @@
+﻿Index,English,Korean
+101100001,Uni,유니
+101200001,Cindy,신디
+101200002,Holger,홀거
+101200003,Mariabell,마리 벨
+101200004,Yuji,유지
+101200005,Yuko,유코
+101200006,Villager,마을 주민
+101300001,Goblin,고블린
+101300002,Koblod,코볼트
+101300003,Ogre,오우거
+101300004,Water Wisp,물의 정령
+101300005,Earth Wisp,흙의 정령
+101300006,Wind Wisp,바람의 정령
+101300007,Mimic,미믹
+101300008,Minotaur,미노타우르스
+102100001,Recovery potion,회복 포션
+102100002,Mana potion,마나 포션
+102300001,Soul’s Refuge,영혼의 안식처
+102300002,Soulkeeper’s Charm,영혼을 지키는 자
+102300003,Aetherial Core,에테르의 핵심
+102300004,Plunderer’s Relic,약탈자의 유물
+102300005,Assault Core,공격의 핵심
+102300006,Crippling Cost,막대한 대가
+102300007,Devastator’s Mark,파괴자의 상징
+102300008,Executioner’s Mark,처형자의 표식
+102300009,Sentinael Core,감시자의 핵심
+102300010,Predator’s Mark,포식자의 상징
+102300011,Breezebless Core,바람결 없는 코어
+106300001,"One Down, Many to Go.",시작을 알리다.
+301110001,Restores 8 HP per second for {value} seconds.,체력을 8 초 동안 초당 {value} 회복.
+301110002,Instantly restores {value} Mana.,마나를 {value} 즉시 회복.
+302011001,Restores {value} HP per second.,체력 재생 초당 {value} 회복.
+302011002,Increases HP by {value}%.,HP {value}% 증가.
+302011003,Increases max MP by {value}%.,최대 MP {value}% 증가.
+302011004,Increases gold gain by {value}% when defeating enemies.,적 처치 시 골드 획득량 {value}% 증가.
+302011005,Increases attack power by {value}.,공격력{value}증가.
+302011006,Increases cost by {value}%.,코스트 {value}% 증가.
+302011007,Increases damage dealt by {value}%.,입히는 피해량 {value}% 증가.
+302011008,Increases critical damage by {value}%.,치명타 피해량 {value}% 증가.
+302011009,Increases defense by {value}.,방어력 {value}증가.
+302011010,Critical Hit Rate increased by {value}%.,치명타 확률 {value}% 증가.
+302011011,Ability to Jump One More Time.,점프를 한 번 더 할 수 있다.
+410000001,Increases final damage by {value}% for 8 seconds.,8초 동안 최종 데미지를 {value}% 증가 시킨다.
+410000002,Performs an attack with a 100% critical chance and {value}% increased critical damage one time.,"100%의 크리티컬 확률을 가지고, 크리티컬 데미지가 {value}% 증가한 공격을 1 회 시전."
+530400001,Hunt Down One Goblin.,고블린 한 마리 처치.

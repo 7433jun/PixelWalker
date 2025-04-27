@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: 3fbbba03659a9de439bcd1bb3afe31fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7729150777908150750
+    second: mimic-Sheet_0
+  - first:
+      213: 379911283790892613
+    second: mimic-Sheet_1
+  - first:
+      213: -3852166312833081849
+    second: mimic-Sheet_2
+  - first:
+      213: -9094563085100769309
+    second: mimic-Sheet_3
+  - first:
+      213: 3860664499528450405
+    second: mimic-Sheet_4
+  - first:
+      213: -984921486638664473
+    second: mimic-Sheet_5
+  - first:
+      213: 3435037106425305620
+    second: mimic-Sheet_6
+  - first:
+      213: -4659943171008097671
+    second: mimic-Sheet_7
+  - first:
+      213: -2113447670982132003
+    second: mimic-Sheet_8
+  - first:
+      213: -7332847866931008973
+    second: mimic-Sheet_9
+  - first:
+      213: 218540857086513874
+    second: mimic-Sheet_10
+  - first:
+      213: 3140535846286966372
+    second: mimic-Sheet_11
+  - first:
+      213: 498881629333633522
+    second: mimic-Sheet_12
+  - first:
+      213: 2045508598181366820
+    second: mimic-Sheet_13
+  - first:
+      213: -1416818754277117720
+    second: mimic-Sheet_14
+  - first:
+      213: -3613663275443170398
+    second: mimic-Sheet_15
+  - first:
+      213: -4147598066935526923
+    second: mimic-Sheet_16
+  - first:
+      213: 2435389299581009921
+    second: mimic-Sheet_17
+  - first:
+      213: -4639397303045120012
+    second: mimic-Sheet_18
+  - first:
+      213: 5624474490195660462
+    second: mimic-Sheet_19
+  - first:
+      213: -6772211603054898143
+    second: mimic-Sheet_20
+  - first:
+      213: 1912520761665479649
+    second: mimic-Sheet_21
+  - first:
+      213: -8937306598697410080
+    second: mimic-Sheet_22
+  - first:
+      213: 3444294416422549963
+    second: mimic-Sheet_23
+  - first:
+      213: 1207570257260011044
+    second: mimic-Sheet_24
+  - first:
+      213: 376591786186682652
+    second: mimic-Sheet_25
+  - first:
+      213: -5879330160702722937
+    second: mimic-Sheet_26
+  - first:
+      213: 1177976770001748339
+    second: mimic-Sheet_27
+  - first:
+      213: 3747866176944085699
+    second: mimic-Sheet_28
+  - first:
+      213: -3025356199977240847
+    second: mimic-Sheet_29
+  - first:
+      213: 8184098418119541708
+    second: mimic-Sheet_30
+  - first:
+      213: -1452945859383228370
+    second: mimic-Sheet_31
+  - first:
+      213: 5732734402012884266
+    second: mimic-Sheet_32
+  - first:
+      213: 3603560596547686031
+    second: mimic-Sheet_33
+  - first:
+      213: -4216224256961850152
+    second: mimic-Sheet_34
+  - first:
+      213: -5200959561241690269
+    second: mimic-Sheet_35
+  - first:
+      213: 8002003704434790407
+    second: mimic-Sheet_36
+  - first:
+      213: 3656953896243974623
+    second: mimic-Sheet_37
+  - first:
+      213: -4262412978572698862
+    second: mimic-Sheet_38
+  - first:
+      213: 3195320518494153041
+    second: mimic-Sheet_39
+  - first:
+      213: 7407479325664394290
+    second: mimic-Sheet_40
+  - first:
+      213: -4724268835297430211
+    second: mimic-Sheet_41
+  - first:
+      213: 1970981473577116672
+    second: mimic-Sheet_42
+  - first:
+      213: -3760558834828016156
+    second: mimic-Sheet_43
+  - first:
+      213: 7137681652226654189
+    second: mimic-Sheet_44
+  - first:
+      213: 7162154343580199097
+    second: mimic-Sheet_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mimic-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 245
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed146a48ea5734b60800000000000000
+      internalID: 7729150777908150750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 245
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ec48cbc47b54500800000000000000
+      internalID: 379911283790892613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 245
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e9bdbe52b5a8ac0800000000000000
+      internalID: -3852166312833081849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 245
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef10352f0f99c180800000000000000
+      internalID: -9094563085100769309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 245
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561ca5b58e5d39530800000000000000
+      internalID: 3860664499528450405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 245
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4b041502bd452f0800000000000000
+      internalID: -984921486638664473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 210
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a14c67c04bbaf20800000000000000
+      internalID: 3435037106425305620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 210
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9721e8a106e845fb0800000000000000
+      internalID: -4659943171008097671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 210
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddebbbf6a868ba2e0800000000000000
+      internalID: -2113447670982132003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 210
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33aa89357bd7c3a90800000000000000
+      internalID: -7332847866931008973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 210
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d21d8b60c9680300800000000000000
+      internalID: 218540857086513874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 210
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46eb05286bc659b20800000000000000
+      internalID: 3140535846286966372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 175
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9366dd2326ce600800000000000000
+      internalID: 498881629333633522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 175
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c8b938b3b136c10800000000000000
+      internalID: 2045508598181366820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 175
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0733089d2765ce0800000000000000
+      internalID: -1416818754277117720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 175
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3d551a560b9ddc0800000000000000
+      internalID: -3613663275443170398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 175
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f906357885c076c0800000000000000
+      internalID: -4147598066935526923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 175
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100405b2aad3cc120800000000000000
+      internalID: 2435389299581009921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 140
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff1714cbbc8d9fb0800000000000000
+      internalID: -4639397303045120012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 140
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaecb54cfb52e0e40800000000000000
+      internalID: 5624474490195660462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 140
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12452208d654402a0800000000000000
+      internalID: -6772211603054898143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 140
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e361a0ff73aa8a10800000000000000
+      internalID: 1912520761665479649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 140
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1e2e7100f48f380800000000000000
+      internalID: -8937306598697410080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 140
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc93ab8e5879ccf20800000000000000
+      internalID: 3444294416422549963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e5f4140c622c010800000000000000
+      internalID: 1207570257260011044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 105
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11bcf8fb3ce93500800000000000000
+      internalID: 376591786186682652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 105
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ce21e6e5c686ea0800000000000000
+      internalID: -5879330160702722937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 105
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371cd9191a3095010800000000000000
+      internalID: 1177976770001748339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 105
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca147e4e68130430800000000000000
+      internalID: 3747866176944085699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 105
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6b45da096c306d0800000000000000
+      internalID: -3025356199977240847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 70
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc30ada6622c39170800000000000000
+      internalID: 8184098418119541708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 70
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28869d507916dbe0800000000000000
+      internalID: -1452945859383228370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 70
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2da3a7b093ce8f40800000000000000
+      internalID: 5732734402012884266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 70
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ec1d3254b620230800000000000000
+      internalID: 3603560596547686031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 70
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d457667066fc75c0800000000000000
+      internalID: -4216224256961850152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 70
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f740db5da72d7b0800000000000000
+      internalID: -5200959561241690269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 35
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700123609f3dc0f60800000000000000
+      internalID: 8002003704434790407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 35
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd15a99713c10c230800000000000000
+      internalID: 3656953896243974623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 35
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bd82eaafdd8d4c0800000000000000
+      internalID: -4262412978572698862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 35
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1596c50051f085c20800000000000000
+      internalID: 3195320518494153041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 35
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cb64f3337acc660800000000000000
+      internalID: 7407479325664394290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 35
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35f5a84686007eb0800000000000000
+      internalID: -4724268835297430211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004a07f15355a5b10800000000000000
+      internalID: 1970981473577116672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e58e1df9afcfcbc0800000000000000
+      internalID: -3760558834828016156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 3
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deffac845a32e0360800000000000000
+      internalID: 7137681652226654189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 3
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b86e93cd65156360800000000000000
+      internalID: 7162154343580199097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mimic-Sheet_0: 7729150777908150750
+      mimic-Sheet_1: 379911283790892613
+      mimic-Sheet_10: 218540857086513874
+      mimic-Sheet_11: 3140535846286966372
+      mimic-Sheet_12: 498881629333633522
+      mimic-Sheet_13: 2045508598181366820
+      mimic-Sheet_14: -1416818754277117720
+      mimic-Sheet_15: -3613663275443170398
+      mimic-Sheet_16: -4147598066935526923
+      mimic-Sheet_17: 2435389299581009921
+      mimic-Sheet_18: -4639397303045120012
+      mimic-Sheet_19: 5624474490195660462
+      mimic-Sheet_2: -3852166312833081849
+      mimic-Sheet_20: -6772211603054898143
+      mimic-Sheet_21: 1912520761665479649
+      mimic-Sheet_22: -8937306598697410080
+      mimic-Sheet_23: 3444294416422549963
+      mimic-Sheet_24: 1207570257260011044
+      mimic-Sheet_25: 376591786186682652
+      mimic-Sheet_26: -5879330160702722937
+      mimic-Sheet_27: 1177976770001748339
+      mimic-Sheet_28: 3747866176944085699
+      mimic-Sheet_29: -3025356199977240847
+      mimic-Sheet_3: -9094563085100769309
+      mimic-Sheet_30: 8184098418119541708
+      mimic-Sheet_31: -1452945859383228370
+      mimic-Sheet_32: 5732734402012884266
+      mimic-Sheet_33: 3603560596547686031
+      mimic-Sheet_34: -4216224256961850152
+      mimic-Sheet_35: -5200959561241690269
+      mimic-Sheet_36: 8002003704434790407
+      mimic-Sheet_37: 3656953896243974623
+      mimic-Sheet_38: -4262412978572698862
+      mimic-Sheet_39: 3195320518494153041
+      mimic-Sheet_4: 3860664499528450405
+      mimic-Sheet_40: 7407479325664394290
+      mimic-Sheet_41: -4724268835297430211
+      mimic-Sheet_42: 1970981473577116672
+      mimic-Sheet_43: -3760558834828016156
+      mimic-Sheet_44: 7137681652226654189
+      mimic-Sheet_45: 7162154343580199097
+      mimic-Sheet_5: -984921486638664473
+      mimic-Sheet_6: 3435037106425305620
+      mimic-Sheet_7: -4659943171008097671
+      mimic-Sheet_8: -2113447670982132003
+      mimic-Sheet_9: -7332847866931008973
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

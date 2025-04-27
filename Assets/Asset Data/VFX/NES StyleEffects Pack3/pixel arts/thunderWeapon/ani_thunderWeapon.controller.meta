@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 743e73d01b206924982f83a295b318a4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 256348
+  packageName: NES style Pixel Effect Pack 03
+  packageVersion: 1.0
+  assetPath: Assets/NES StyleEffects Pack3/pixel arts/thunderWeapon/ani_thunderWeapon.controller
+  uploadId: 588641

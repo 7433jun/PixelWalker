@@ -1,0 +1,82 @@
+{
+  "MainMenuUI": {
+    "StartButton": {
+      "EN": "START",
+      "KO": "시작"
+    },
+    "LoadButton": {
+      "EN": "LOAD",
+      "KO": "로드"
+    },
+    "SettingButton": {
+      "EN": "SETTING",
+      "KO": "설정"
+    },
+    "ExitButton": {
+      "EN": "EXIT",
+      "KO": "종료"
+    }
+  },
+  "HandbookUI": {
+    "Map": {
+      "EN": "Map",
+      "KO": "지도"
+    },
+    "Inventory": {
+      "EN": "Inventory",
+      "KO": "인벤토리"
+    },
+    "Achievement": {
+      "EN": "Achievement",
+      "KO": "도전과제"
+    }
+  },
+  "InventoryUI": {
+    "Equipment": {
+      "EN": "EQUIPMENT",
+      "KO": "장비"
+    },
+    "Core": {
+      "EN": "CORE",
+      "KO": "코어"
+    },
+    "Cost": {
+      "EN": "COST",
+      "KO": "코스트"
+    },
+    "Info": {
+      "EN": "INFO",
+      "KO": "아이템 정보"
+    },
+    "Name": {
+      "EN": "NAME",
+      "KO": "이름"
+    },
+    "Description": {
+      "EN": "DESCRIPTION",
+      "KO": "아이템 설명"
+    }
+  },
+  "StoreUI": {
+    "Store": {
+      "EN": "STORE",
+      "KO": "상점"
+    },
+    "Info": {
+      "EN": "INFO",
+      "KO": "아이템 정보"
+    },
+    "Name": {
+      "EN": "NAME",
+      "KO": "이름"
+    },
+    "Cost": {
+      "EN": "COST",
+      "KO": "코스트"
+    },
+    "Description": {
+      "EN": "DESCRIPTION",
+      "KO": "아이템 정보"
+    }
+  }
+}

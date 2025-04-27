@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63a1344f54e6b1648805ec1b2ebbafd5, type: 3}
+  m_Name: Mimic Spec
+  m_EditorClassIdentifier: 
+  Owner: {fileID: 0}
+  CharacterName: Mimic
+  MaxHP: 100
+  MaxMP: 100
+  PureATK: 12
+  PureDEF: 1
+  CriticalRate: 0
+  CriticalDamage: 0
+  WalkSpeed: 1
+  DashSpeed: 2
+  JumpForce: 5
+  SecondJumpForceRate: 75
+  WaterMoveDemerit: 75
+  HitInvincibleTime: 0.6
+  RecoveryRate: 1
+  MPGainRate: 1
+  LightAttackAudioCue: []
+  HeavyAttackAudioCue: []
+  DamagedAudioCue: []
+  JumpAudioCue: []
+  AdditiveHP: 0
+  AdditiveMP: 0
+  AdditiveATK: 0
+  AdditiveDEF: 0
+  AdditiveCriticalRate: 0
+  AdditiveCriticalDamage: 0
+  AdditiveMoveSpeed: 0
+  DropTable_Prefabs:
+  - {fileID: 6532949646405505175, guid: dcb4459673251f84e9e6066e8b673e5e, type: 3}
+  - {fileID: 345466998192834108, guid: ddb4075e26258974aa1cdc2e437e1d1f, type: 3}
+  - {fileID: 924972716279262186, guid: fa3a92d329acb5344a50c0d07d298093, type: 3}
+  PotionDropMinNum: 1
+  PotionDropMaxNum: 2
+  GoldDropMinNum: 150
+  GoldDropMaxNum: 300

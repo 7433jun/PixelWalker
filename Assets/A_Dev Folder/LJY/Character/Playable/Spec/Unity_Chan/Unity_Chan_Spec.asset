@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46ebbba503f345c4baca9cf511ddbff0, type: 3}
+  m_Name: Unity_Chan_Spec
+  m_EditorClassIdentifier: 
+  Owner: {fileID: 0}
+  CharacterName: Unity Chan
+  MaxHP: 100
+  MaxMP: 100
+  PureATK: 50
+  PureDEF: 5
+  CriticalRate: 5
+  CriticalDamage: 50
+  WalkSpeed: 1.5
+  DashSpeed: 3
+  JumpForce: 6.5
+  SecondJumpForceRate: 75
+  WaterMoveDemerit: 75
+  HitInvincibleTime: 2
+  RecoveryRate: 1
+  MPGainRate: 1
+  LightAttackAudioCue:
+  - {fileID: 8300000, guid: eed2451bbd4264da8b6c27c92df62faf, type: 3}
+  - {fileID: 8300000, guid: 6ccbc3d284bd849d49fb1f8f94ab2888, type: 3}
+  HeavyAttackAudioCue:
+  - {fileID: 8300000, guid: 687990b2a12cc4b6db34fdeceb9b8636, type: 3}
+  - {fileID: 8300000, guid: 93544ae23f04c47b682e4c22db4335b8, type: 3}
+  DamagedAudioCue:
+  - {fileID: 8300000, guid: 1fea949ca16274adb8e4a6a9b673d938, type: 3}
+  - {fileID: 8300000, guid: c0cc9bb81e32248d7b64b27359c13a43, type: 3}
+  - {fileID: 8300000, guid: 23e7ee0c4720c4bd48c405abb4ffa7f2, type: 3}
+  - {fileID: 8300000, guid: 14442038946004af3aaf906b64944b5f, type: 3}
+  - {fileID: 8300000, guid: 60e04cb188aff4081a59ce70a1ff20c9, type: 3}
+  - {fileID: 8300000, guid: 8b022f05317f74c7384d83d079aa4428, type: 3}
+  - {fileID: 8300000, guid: 0d4e82b27a1c14af8971e374849c947e, type: 3}
+  - {fileID: 8300000, guid: 0a5cc4fa350a34a23998ea98dbc02d4b, type: 3}
+  - {fileID: 8300000, guid: 872311653da1a4d1f90f26302192edd5, type: 3}
+  JumpAudioCue:
+  - {fileID: 8300000, guid: 9a5a9cad2e3d14feba240cb5c8449361, type: 3}
+  - {fileID: 8300000, guid: 5dadf04f00ed843aaaf7d41e3d53a927, type: 3}
+  AdditiveHP: 0
+  AdditiveMP: 0
+  AdditiveATK: 0
+  AdditiveDEF: 0
+  AdditiveCriticalRate: 0
+  AdditiveCriticalDamage: 0
+  AdditiveMoveSpeed: 0
+  Gold: 0
+  HasHPPotion: 0
+  HasMPPotion: 0
+  Ability_01_CoolDown: 15
+  Ability_02_CoolDown: 10
+  CanRegenHP: 0
+  CanDoubleJump: 1

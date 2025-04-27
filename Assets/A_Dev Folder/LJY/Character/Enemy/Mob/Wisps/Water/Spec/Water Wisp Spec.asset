@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63a1344f54e6b1648805ec1b2ebbafd5, type: 3}
+  m_Name: Water Wisp Spec
+  m_EditorClassIdentifier: 
+  Owner: {fileID: 0}
+  CharacterName: Water Wisp
+  MaxHP: 200
+  MaxMP: 200
+  PureATK: 10
+  PureDEF: 1
+  CriticalRate: 0
+  CriticalDamage: 0
+  WalkSpeed: 1
+  DashSpeed: 2
+  JumpForce: 6
+  SecondJumpForceRate: 75
+  HitInvincibleTime: 0.6
+  RecoveryRate: 1
+  MPGainRate: 1
+  LightAttackAudioCue: []
+  HeavyAttackAudioCue: []
+  DamagedAudioCue: []
+  JumpAudioCue: []
+  AdditiveHP: 0
+  AdditiveMP: 0
+  AdditiveATK: 0
+  AdditiveDEF: 0
+  AdditiveCriticalRate: 0
+  AdditiveCriticalDamage: 0
+  AdditiveMoveSpeed: 0
+  DropTable_Prefabs:
+  - {fileID: 6532949646405505175, guid: dcb4459673251f84e9e6066e8b673e5e, type: 3}
+  - {fileID: 924972716279262186, guid: fa3a92d329acb5344a50c0d07d298093, type: 3}
+  PotionDropMinNum: 1
+  PotionDropMaxNum: 1
+  GoldDropMinNum: 10
+  GoldDropMaxNum: 30

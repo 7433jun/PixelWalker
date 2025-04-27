@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/A_Dev Folder/KHT/Main.unity
+    guid: 2be4ecaa612a4c04092d6c437032777b
+  - enabled: 1
+    path: Assets/A_Dev Folder/PHK/Test Scene.unity
+    guid: da0948ae4ff1d1f448b71a79e2a46fbc
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

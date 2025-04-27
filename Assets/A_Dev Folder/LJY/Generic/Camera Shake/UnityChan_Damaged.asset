@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7eab902b87792b645a1336591be6863b, type: 3}
+  m_Name: UnityChan_Damaged
+  m_EditorClassIdentifier: 
+  ImpactTime: 0.2
+  ImpactForce: 0.1
+  DefaultVelocity: {x: 1, y: -1, z: 0}
+  ImpulseCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0.019526007
+      outSlope: 0.019526007
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.49999997
+      value: 1.009763
+      inSlope: 9.313226e-10
+      outSlope: 9.313226e-10
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: -0.019526005
+      outSlope: -0.019526005
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  ListenerAmplitude: 0.25
+  ListenerFrequency: 0.25
+  ListenerDuration: 0.5
